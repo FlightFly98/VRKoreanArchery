@@ -16,13 +16,13 @@ Unity Version: 2022.3.23f1
 에셋이 포함된 전체 폴더는 최종제출 -> 실행파일 -> zip파일로 참조 부탁드립니다.
 
 
-### 하는 방법
+## 하는 방법
 
-## 1. KoreanArchery_Final 파일 압축 풀기
+### 1. KoreanArchery_Final 파일 압축 풀기
 
-## 2. 유니티 버전에 맞추어서 폴더 열기
+### 2. 유니티 버전에 맞추어서 폴더 열기
 
-## 3. 아두이노 설정하기 
+### 3. 아두이노 설정하기 
 - 설정 방법: https://github.com/FlightFly98/KoreanArchery_Arduino 의 ReadMe 참조.
 
 ### 4. 15파운드의 활, 본인 크기에 맞는 화살, 고무촉 준비 
