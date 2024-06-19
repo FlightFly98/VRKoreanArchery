@@ -51,7 +51,11 @@ Unity Version: 2022.3.23f1
 
 <img src="./Image/ShockSensor.JPG" width="300" height="500">
 
-### 10. 손목에 아두이노를 착용합니다.
+### 10. 낙전 감지 센서를 사대 앞 1m 이내에 설치합니다.
+
+<img src="./Image/frontPicture_draw.JPG" width="500" height="300">
+
+### 11. 손목에 아두이노를 착용합니다.
 
 <img src="./Image/Zoom.JPG" width="300" height="300">
 <img src="./Image/kkagi.JPG" width="300" height="300">
@@ -61,6 +65,6 @@ Unity Version: 2022.3.23f1
  - 사진을 보고 줌 센서의 앞쪽을 확인하세요! (노란색 압핀쪽이 앞)
  - 전용 케이스를 사용하는 경우 사진의 가속도 센서의 방향을 확인 후 장착 바랍니다.
 
-### 11. 활에 화살을 매기고 발시!
+### 12. 활에 화살을 매기고 발시!
  - **주의: 환경에 따라 만작 시 위험할 수 있습니다. 반드시 천의 고정 상태 및 주변의 안전을 확인 후에 활을 적당히 당기시기 바랍니다. 이 사진은 예시 사진입니다.**
 <img src="./Image/Example.png" width="500" height="300">
