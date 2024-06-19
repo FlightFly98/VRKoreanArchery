@@ -11,8 +11,6 @@ public class Player : MonoBehaviour
 
     public UnityEvent arrowCreated;
 
-    public bool valsi = false;
-
     public bool sw420 = false;
 
     public bool nakJeon = false;

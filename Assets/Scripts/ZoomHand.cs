@@ -110,6 +110,7 @@ public class ZoomHand : MonoBehaviour
 
         // Debug.Log("Pitch: " + pitch + "Roll: " + roll);
 
+        GameManager.instance.SetZoomHandRoll(roll);
         GameManager.instance.SetZoomHandYaw(yaw);
         GameManager.instance.SetlaunchAngle(-pitch);
     }

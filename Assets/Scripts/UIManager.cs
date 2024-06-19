@@ -75,6 +75,19 @@ public class UIManager : MonoBehaviour
        SceneManager.LoadScene(1);
     }
 
+    public void OnclickRestart()
+    {
+       SceneManager.LoadScene(0);
+    }
+
+    public void ExitGame()
+    {
+        #if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+        #else
+            Application.Quit();
+        #endif
+    }
     public void SetTLights()
     {
         TLights = GameObject.FindGameObjectsWithTag("TLight");
